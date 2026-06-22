@@ -1,0 +1,10 @@
+{
+  "name": "cyber-ite",
+  "version": "1.0.0",
+  "displayName": "Cyber ITE",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
